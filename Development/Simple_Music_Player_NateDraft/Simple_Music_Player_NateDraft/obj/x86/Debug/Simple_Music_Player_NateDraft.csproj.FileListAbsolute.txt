@@ -1,0 +1,137 @@
+C:\Users\Fright\Dropbox\College\2012 Spring\CS 446\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fright\Dropbox\College\2012 Spring\CS 446\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+C:\Users\Fright\Dropbox\College\2012 Spring\CS 446\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+C:\Users\Fright\Dropbox\College\2012 Spring\CS 446\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+C:\Users\Fright\Dropbox\College\2012 Spring\CS 446\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fright\Dropbox\College\2012 Spring\CS 446\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Nate\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\SongLibraryDatabase.accdb
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Project\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\SongLibraryDatabase.accdb
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Project\SMP_Draft2_Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\MusicPlayerDatabase.accdb
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Project\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\MusicPlayerDatabase.accdb
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\MusicPlayerDatabase.accdb
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Project\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\MusicPlayerDatabase.accdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\NAudio.dll
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\MusicPlayerDatabase.accdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\NAudio.dll
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\Latest Version\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.exe.config
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.exe
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ExportForm.resources
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.ImportForm.resources
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.MainPlayerForm.resources
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.Properties.Resources.resources
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\Simple_Music_Player_NateDraft.TutorialForm.resources
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\MusicPlayerDatabase.accdb
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\Simple_Music_Player_NateDraft.pdb
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\NAudio.dll
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\taglib-sharp.dll
+C:\Users\Nate\Dropbox\Solo Music Player Project\Development\Simple_Music_Player_NateDraft\Simple_Music_Player_NateDraft\bin\Debug\policy.2.0.taglib-sharp.config

@@ -1,0 +1,21 @@
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.Properties.Resources.resources
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.Form1.resources
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\bin\Debug\SecondTutorial.exe
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\bin\Debug\SecondTutorial.pdb
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\bin\Debug\NAudio.dll
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.exe
+D:\Users\Montana\Desktop\tutorials\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.pdb
+F:\cs446\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.exe
+F:\cs446\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.pdb
+F:\cs446\SecondTutorial\SecondTutorial\bin\Debug\SecondTutorial.exe
+F:\cs446\SecondTutorial\SecondTutorial\bin\Debug\SecondTutorial.pdb
+F:\cs446\SecondTutorial\SecondTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\cs446\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.Properties.Resources.resources
+F:\cs446\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.Form1.resources
+F:\cs446\SecondTutorial\SecondTutorial\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\cs446\SecondTutorial\SecondTutorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.exe
+C:\Users\Nate\Dropbox\CS 446 Project\Physical Design Drafts\Nate\SMP_Draft2_Nate (1)\SMP_Draft2_Nate\Simple_Music_Player_NateDraft\SecondTutorial\SecondTutorial\obj\x86\Debug\SecondTutorial.pdb
